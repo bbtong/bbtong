@@ -1,5 +1,7 @@
 ### Hey 👋 I'm Bryan
 
+The world is pretty distant and impersonal right now, so here's my self-introduction! 🧋
+
 - 🔭 I work on Distributed Systems rn
 - 🌱 Gardening is fun, but I'm impatient
 - ☕ Coffee is my preferred beverage
