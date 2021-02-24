@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey 👋 I'm Bryan
+
+- 🔭 I work on Distributed Systems rn
+- 🌱 Gardening is fun, but I'm impatient
+- ☕ Coffee is my preferred beverage
+- ⚡ Fun fact: Robusta coffee has 2x the caffeine of Arabica
+- 😄 Pronouns: he/him/his
 
 <!--
 **bbtong/bbtong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
