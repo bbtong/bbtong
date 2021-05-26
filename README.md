@@ -5,8 +5,8 @@ The world is pretty distant and impersonal right now, so here's my self-introduc
 - 🔭 I work on Distributed Systems rn
 - 🌱 Gardening is fun, but I'm impatient
 - ☕ Coffee is my preferred beverage
-- ✈️ Favorite countries visited: Japan (4x), Hawaii (twice), Croatia (once)
-- ⚡ Fun fact: Robusta coffee has 2x the caffeine of Arabica
+- ✈️ Favorite countries visited: Japan, Hawaii, Croatia
+- ⚡ Fun fact: Robusta coffee beans has 2x the caffeine of Arabica beans
 - 😄 Pronouns: he/him/his
 
 <!--
