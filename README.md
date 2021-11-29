@@ -2,12 +2,12 @@
 
 The world is pretty distant and impersonal right now, so here's my self-introduction! 🧋
 
-- 🔭 SWE, lots of backend / Kubernetes lately
-- 🌱 Gardening is fun, I have a persimmon tree
-- ☕ Coffee is my preferred beverage
-- ✈️ Favorite countries visited: Japan, Hawaii, Croatia
-- ⚡ Fun fact: Robusta coffee beans has 2x the caffeine of Arabica beans
-- 😄 Pronouns: he/him/his
+- 🔭  SWE, lots of backend / Kubernetes lately
+- 🌱  Gardening is fun, I have a persimmon tree
+- ☕  Coffee is my preferred beverage
+- ✈️  Favorite countries visited: Japan, Hawaii, Croatia
+- ⚡  Fun fact: Robusta coffee beans has 2x the caffeine of Arabica beans
+- 😄  Pronouns: he/him/his
 
 <!--
 **bbtong/bbtong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
