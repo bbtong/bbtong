@@ -4,7 +4,7 @@ The world is pretty distant and impersonal right now, so here's my self-introduc
 
 - 🔭  SWE, lots of backend / Kubernetes lately
 - 🌱  Gardening is fun, I have a persimmon tree
-- ☕  Coffee is my preferred beverage
+- ☕  Boba (bubble tea) is amazing
 - ✈️  Favorite countries visited: Japan, Hawaii, Croatia
 - ⚡  Fun fact: Robusta coffee beans has 2x the caffeine of Arabica beans
 - 😄  Pronouns: he/him/his
