@@ -6,7 +6,8 @@ The world is pretty distant and impersonal right now, so here's my self-introduc
 - 🌱  Gardening is fun, I have a persimmon tree
 - ☕  Boba (bubble tea) is amazing
 - ✈️  Favorite countries visited: Japan, Hawaii, Croatia
-- ⚡  Fun fact: Robusta coffee beans has 2x the caffeine of Arabica beans
+- ⚡  Fun fact (2022): German Chocolate Cake is Texan!
+- ⚡  Fun fact (2021): Robusta coffee beans has 2x the caffeine of Arabica beans
 - 😄  Pronouns: he/him/his
 
 <!--
