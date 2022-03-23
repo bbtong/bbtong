@@ -2,13 +2,12 @@
 
 The world is pretty distant and impersonal right now, so here's my self-introduction! 🧋
 
+- 😄  Pronouns: he/him/his
 - 💻  SWE, lots of backend / Kubernetes lately
-- 🌱  Gardening is fun, I have a persimmon tree
-- ☕  Boba (bubble tea) is amazing
-- ✈️  Favorite countries visited: Japan, Hawaii, Croatia
+- 🌱  Gardening 🏋️ Weightlifting ☕ Coffee lover
+- ✈️  Favorite places visited: Japan, Hawaii, Croatia
 - ⚡  Fun fact (2022): German Chocolate Cake is Texan!
 - ⚡  Fun fact (2021): Robusta coffee beans has 2x the caffeine of Arabica beans
-- 😄  Pronouns: he/him/his
 
 <!--
 **bbtong/bbtong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
