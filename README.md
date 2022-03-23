@@ -2,7 +2,7 @@
 
 The world is pretty distant and impersonal right now, so here's my self-introduction! 🧋
 
-- 🔭  SWE, lots of backend / Kubernetes lately
+- 💻  SWE, lots of backend / Kubernetes lately
 - 🌱  Gardening is fun, I have a persimmon tree
 - ☕  Boba (bubble tea) is amazing
 - ✈️  Favorite countries visited: Japan, Hawaii, Croatia
