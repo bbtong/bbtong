@@ -1,6 +1,8 @@
 ### Hey 👋 I'm Bryan
 
-I'm a 24 year old software engineer and AR/VR enthusiast. I love gaming, futurism, sustainable gardening, and iced coffee. Oh, and boba ofc. 🧋
+I'm a 24 year old software engineer and AR/VR enthusiast. I love gaming, futurism, sustainable gardening, and iced coffee. 
+
+Oh, and boba ofc. 🧋
 
 ## Current
 
