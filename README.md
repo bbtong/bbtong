@@ -1,8 +1,8 @@
 ### Hey 👋 I'm Bryan
 
-I'm a software engineer and AR/VR enthusiast. I love gaming, futurism, sustainable gardening, and iced coffee. 
+I'm a full-time software engineer, part-time grad student.
 
-Oh, and boba ofc. 🧋
+Loves: AR/VR, gaming, futurism, sustainable gardening, and iced coffee. Oh, and boba ofc. 🧋
 
 ## 🤔 Current
 
