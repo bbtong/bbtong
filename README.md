@@ -1,6 +1,6 @@
 ### Hey 👋 I'm Bryan
 
-I'm a full-time software engineer, part-time grad student. Eventually switching to Engineering Management.
+I'm a full-time software engineer, Kubernetes domain lead, student of engineering Management.
 
 Loves: AR/VR, gaming, futurism, sustainable gardening, and iced coffee. Oh, and boba ofc. 🧋
 
