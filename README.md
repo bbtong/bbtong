@@ -1,8 +1,9 @@
 ### Hey 👋 I'm Bryan
 
-I'm a full-time software engineer, Kubernetes domain lead, student of Engineering Management.
+## 📚 About
 
-Loves: AR/VR, gaming, futurism, sustainable gardening, and iced coffee. Oh, and boba ofc. 🧋
+Here's [my website](btong.me).
+
 
 ## 🤔 Current
 
