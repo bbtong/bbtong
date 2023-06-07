@@ -2,7 +2,7 @@
 
 ## 📚 About
 
-Here's [my website](btong.me).
+Here's [my website](https://btong.me).
 
 
 ## 🤔 Current
